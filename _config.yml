@@ -1,0 +1,28 @@
+name: anastacia
+favicon: null
+layout_spectrum: 0.3869622494094074
+typography_spectrum: 0.9243696688208729
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9780443962663412
+  lightness: 0.030198973137885332
+  saturation: 0.06512117292732
+  rhythmicContrast: 0.7498144907876849
+purpose: []
